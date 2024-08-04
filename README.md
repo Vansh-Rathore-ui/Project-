@@ -1,1 +1,1 @@
-It a quiz game based with three subjects on it
+I am pleased to share some of the projects I developed in my free time. These projects are part of my ongoing learning process as a new programmer working with the C language. I hope these examples demonstrate my progress and commitment to mastering programming concepts.It a quiz game based with three subjects on it
